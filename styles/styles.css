@@ -1,0 +1,155 @@
+.header{
+   
+
+    background-color: #fdf3f5;
+    display: flex;
+  justify-content: space-between;
+  padding: 10px 30px;
+  align-items: center;
+  
+}
+.header-content{
+    padding: 0px 50px;
+}
+.header-title{
+    font-weight: 700;
+
+}
+.header-desc{
+    margin: 0;
+}
+.headig-imges{
+    width: 400px;
+    height: 550px;
+    
+}
+.headig-img{
+    width: 300px;
+    height: 400px;
+    
+}
+.btn-primary{
+    margin: 15px 10px 0px 0px;
+    padding: 15px;
+    border: 0;
+    border-radius: 5px;
+    color: #FFF;
+    background-color: #e55473;
+}
+.signup{
+    text-align: center;
+   
+}
+.main{
+    margin: 22px;
+    width: 1200px !important;
+
+}
+.flowers-details{
+    text-align: center;
+}
+.feature{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-bottom: 0;
+    
+    
+}
+.featured-flowers-image1{
+    background-color: #f2dee7;
+    border-radius: 150px 150px 0px 0px;
+    padding: 20px;
+    height: 380px;
+}
+.featured-flowers-image1 img{
+    width: 300px;
+    height: 400px;
+}
+.featured-flowers-image2 img{
+    width: 300px;
+    height: 400px;
+}
+.featured-flowers-image3 img{
+    width: 300px;
+    height: 400px;
+}
+.featured-flowers-image2{
+    background-color: #d9eff1;
+    padding: 20px;
+    width: 300px;
+    height: 380px;
+    border-radius: 150px 150px 0px 0px;
+}
+.featured-flowers-image3{
+    background-color: #e3ebdb;
+    padding: 20px;
+    height: 380px;
+    border-radius: 150px 150px 0px 0px;
+}
+.feature p{
+    text-align: center;
+    text-decoration: underline;
+}
+.img{
+    text-align: center !important;
+    margin: auto;
+}
+.healp{
+    
+    margin: 100px 150px 0px 150px;
+    
+    border-radius: 5px;
+    padding: 50px;
+    justify-content: space-between;
+    justify-items: center;
+    background-color: #f4f4f4;
+    display: flex;
+    margin-bottom: 50px;
+    
+}
+
+.dis-title {
+    text-align: center;
+}
+.dis-desc{
+    text-align: center;
+}
+.insta-image{
+   
+    display: inline;
+}
+.insta-image img{
+    margin: 20px;
+    width: 250px;
+    gap: 5px;
+    border-radius: 5px;
+}
+.contact{
+    background-image: url(../Flower-Asset/Rectangle\ 9.png);
+   width: 1200px;
+   height: 400px;
+   text-align: center;
+   padding: 80px;
+   background-repeat: no-repeat;
+   
+}
+.contact input{
+    width: 600px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+}
+.contact input:hover{
+    border: #e55473;
+}
+.footer{
+    background-color: black;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+}
+.footer span{
+    color: #e55473;
+}
+
